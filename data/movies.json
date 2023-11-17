@@ -1,0 +1,997 @@
+[
+  {
+    "genre": "Action",
+    "movies": [
+      {
+        "title": "Die Hard",
+        "year": 1988,
+        "image": "die_hard.jpg",
+        "description": "Yippee ki-yay, motherf*****!"
+      },
+      {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "image": "mad_max.jpg",
+        "description": "Witness me!"
+      },
+      {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "image": "dark_knight.jpg",
+        "description": "Why so serious?"
+      },
+      {
+        "title": "Inception",
+        "year": 2010,
+        "image": "inception.jpg",
+        "description": "Your mind is the scene of the crime."
+      }
+    ]
+  },
+  {
+    "genre": "Comedy",
+    "movies": [
+      {
+        "title": "Anchorman: The Legend of Ron Burgundy",
+        "year": 2004,
+        "image": "anchorman.jpg",
+        "description": "Stay classy, San Diego."
+      },
+      {
+        "title": "Superbad",
+        "year": 2007,
+        "image": "superbad.jpg",
+        "description": "Come for the party, stay for the friendship."
+      },
+      {
+        "title": "Bridesmaids",
+        "year": 2011,
+        "image": "bridesmaids.jpg",
+        "description": "Best friends don't let you do crazy things alone."
+      },
+      {
+        "title": "The Hangover",
+        "year": 2009,
+        "image": "hangover.jpg",
+        "description": "What happens in Vegas stays in Vegas."
+      }
+    ]
+  },
+  {
+    "genre": "Drama",
+    "movies": [
+      {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "image": "shawshank.jpg",
+        "description": "Fear can hold you prisoner. Hope can set you free."
+      },
+      {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "image": "forrest_gump.jpg",
+        "description": "Life is like a box of chocolates."
+      },
+      {
+        "title": "The Godfather",
+        "year": 1972,
+        "image": "godfather.jpg",
+        "description": "I'm gonna make him an offer he can't refuse."
+      },
+      {
+        "title": "Schindler's List",
+        "year": 1993,
+        "image": "schindlers_list.jpg",
+        "description": "Whoever saves one life, saves the world entire."
+      }
+    ]
+  },
+  {
+    "genre": "Sci-Fi",
+    "movies": [
+      {
+        "title": "Blade Runner",
+        "year": 1982,
+        "image": "blade_runner.jpg",
+        "description": "The future is now."
+      },
+      {
+        "title": "The Matrix",
+        "year": 1999,
+        "image": "matrix.jpg",
+        "description": "Reality is a thing of the past."
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "image": "eternal_sunshine.jpg",
+        "description": "Remember everything. Forgive nothing."
+      },
+      {
+        "title": "Interstellar",
+        "year": 2014,
+        "image": "interstellar.jpg",
+        "description": "Mankind was born on Earth. It was never meant to die here."
+      }
+    ]
+  },
+  {
+    "genre": "Horror",
+    "movies": [
+      {
+        "title": "The Exorcist",
+        "year": 1973,
+        "image": "exorcist.jpg",
+        "description": "The power of Christ compels you!"
+      },
+      {
+        "title": "The Shining",
+        "year": 1980,
+        "image": "shining.jpg",
+        "description": "Here's Johnny!"
+      },
+      {
+        "title": "Get Out",
+        "year": 2017,
+        "image": "get_out.jpg",
+        "description": "Just because you're invited, doesn't mean you're welcome."
+      },
+      {
+        "title": "A Nightmare on Elm Street",
+        "year": 1984,
+        "image": "nightmare.jpg",
+        "description": "Whatever you do, don't fall asleep."
+      }
+    ]
+  },
+  {
+    "genre": "Romance",
+    "movies": [
+      {
+        "title": "The Notebook",
+        "year": 2004,
+        "image": "notebook.jpg",
+        "description": "Behind every great love is a great story."
+      },
+      {
+        "title": "Pride and Prejudice",
+        "year": 2005,
+        "image": "pride_prejudice.jpg",
+        "description": "You have bewitched me, body and soul."
+      },
+      {
+        "title": "La La Land",
+        "year": 2016,
+        "image": "la_la_land.jpg",
+        "description": "Here's to the ones who dream."
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "image": "eternal_sunshine.jpg",
+        "description": "Love is a four-letter word."
+      }
+    ]
+  },
+  {
+    "genre": "Thriller",
+    "movies": [
+      {
+        "title": "Se7en",
+        "year": 1995,
+        "image": "se7en.jpg",
+        "description": "Seven deadly sins. Seven ways to die."
+      },
+      {
+        "title": "Gone Girl",
+        "year": 2014,
+        "image": "gone_girl.jpg",
+        "description": "You don't know what you've got 'til it's gone."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "image": "silence_lambs.jpg",
+        "description": "It places the lotion in the basket."
+      },
+      {
+        "title": "Memento",
+        "year": 2000,
+        "image": "memento.jpg",
+        "description": "Some memories are best forgotten."
+      }
+    ]
+  },
+  {
+    "genre": "Animation",
+    "movies": [
+      {
+        "title": "Toy Story",
+        "year": 1995,
+        "image": "toy_story.jpg",
+        "description": "You've got a friend in me."
+      },
+      {
+        "title": "Finding Nemo",
+        "year": 2003,
+        "image": "finding_nemo.jpg",
+        "description": "Just keep swimming."
+      },
+      {
+        "title": "Spirited Away",
+        "year": 2001,
+        "image": "spirited_away.jpg",
+        "description": "Once you meet someone, you never really forget them."
+      },
+      {
+        "title": "The Lion King",
+        "year": 1994,
+        "image": "lion_king.jpg",
+        "description": "Hakuna Matata. It means no worries for the rest of your days."
+      }
+    ]
+  },
+  {
+    "genre": "Action/Comedy",
+    "movies": [
+      {
+        "title": "Rush Hour",
+        "year": 1998,
+        "image": "rush_hour.jpg",
+        "description": "Do you understand the words that are coming out of my mouth?"
+      },
+      {
+        "title": "21 Jump Street",
+        "year": 2012,
+        "image": "21_jump_street.jpg",
+        "description": "We're reviving a canceled undercover police program from the '80s and revamping it for modern times."
+      },
+      {
+        "title": "Deadpool",
+        "year": 2016,
+        "image": "deadpool.jpg",
+        "description": "With great power comes great irresponsibility."
+      },
+      {
+        "title": "The Nice Guys",
+        "year": 2016,
+        "image": "nice_guys.jpg",
+        "description": "They're not that nice."
+      }
+    ]
+  },
+  {
+    "genre": "Action/Drama",
+    "movies": [
+      {
+        "title": "Gladiator",
+        "year": 2000,
+        "image": "gladiator.jpg",
+        "description": "Are you not entertained?"
+      },
+      { "title": "Braveheart", "year": 1995, "image": "braveheart.jpg", "description": "Freedom!" },
+      {
+        "title": "The Brave One",
+        "year": 2007,
+        "image": "brave_one.jpg",
+        "description": "How many wrongs to make it right?"
+      },
+      {
+        "title": "The Equalizer",
+        "year": 2014,
+        "image": "equalizer.jpg",
+        "description": "Justice is coming."
+      }
+    ]
+  },
+  {
+    "genre": "Action/Horror",
+    "movies": [
+      {
+        "title": "Resident Evil",
+        "year": 2002,
+        "image": "resident_evil.jpg",
+        "description": "You're all going to die down here."
+      },
+      {
+        "title": "28 Days Later",
+        "year": 2002,
+        "image": "28_days_later.jpg",
+        "description": "The days are numbered."
+      },
+      {
+        "title": "The Purge",
+        "year": 2013,
+        "image": "purge.jpg",
+        "description": "Stay safe. Stay strong."
+      },
+      {
+        "title": "A Quiet Place",
+        "year": 2018,
+        "image": "quiet_place.jpg",
+        "description": "If they hear you, they hunt you."
+      }
+    ]
+  },
+  {
+    "genre": "Action/Romance",
+    "movies": [
+      {
+        "title": "Mr. & Mrs. Smith",
+        "year": 2005,
+        "image": "mr_mrs_smith.jpg",
+        "description": "Happy endings are just stories that haven't finished yet."
+      },
+      {
+        "title": "True Lies",
+        "year": 1994,
+        "image": "true_lies.jpg",
+        "description": "When he said I do, he never said what he did."
+      },
+      {
+        "title": "Knight and Day",
+        "year": 2010,
+        "image": "knight_day.jpg",
+        "description": "She has the perfect husband, but she can't have him."
+      },
+      {
+        "title": "The Princess Bride",
+        "year": 1987,
+        "image": "princess_bride.jpg",
+        "description": "As you wish."
+      }
+    ]
+  },
+  {
+    "genre": "Action/Sci-Fi",
+    "movies": [
+      {
+        "title": "The Terminator",
+        "year": 1984,
+        "image": "terminator.jpg",
+        "description": "I'll be back."
+      },
+      {
+        "title": "The Fifth Element",
+        "year": 1997,
+        "image": "fifth_element.jpg",
+        "description": "Leeloo Dallas multipass."
+      },
+      {
+        "title": "Blade Runner",
+        "year": 1982,
+        "image": "blade_runner.jpg",
+        "description": "The future is now."
+      },
+      {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "image": "star_wars.jpg",
+        "description": "May the Force be with you."
+      }
+    ]
+  },
+  {
+    "genre": "Action/Animation",
+    "movies": [
+      {
+        "title": "Big Hero 6",
+        "year": 2014,
+        "image": "big_hero_6.jpg",
+        "description": "Balalalala!"
+      },
+      {
+        "title": "The Incredibles",
+        "year": 2004,
+        "image": "incredibles.jpg",
+        "description": "No capes!"
+      },
+      {
+        "title": "Kung Fu Panda",
+        "year": 2008,
+        "image": "kung_fu_panda.jpg",
+        "description": "There is no charge for awesomeness."
+      },
+      {
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "image": "how_to_train_dragon.jpg",
+        "description": "Toothless, time to fly."
+      }
+    ]
+  },
+  {
+    "genre": "Action/Thriller",
+    "movies": [
+      {
+        "title": "The Bourne Identity",
+        "year": 2002,
+        "image": "bourne_identity.jpg",
+        "description": "I remember everything."
+      },
+      {
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "image": "kill_bill.jpg",
+        "description": "Revenge is a dish best served cold."
+      },
+      { "title": "Speed", "year": 1994, "image": "speed.jpg", "description": "Pop quiz, hotshot." },
+      {
+        "title": "John Wick",
+        "year": 2014,
+        "image": "john_wick.jpg",
+        "description": "People keep asking if I'm back, and I haven't really had an answer. But now, yeah, I'm thinkin' I'm back."
+      }
+    ]
+  },
+  {
+    "genre": "Comedy/Animation",
+    "movies": [
+      {
+        "title": "Shrek",
+        "year": 2001,
+        "image": "shrek.jpg",
+        "description": "Once upon a time in a far far swamp..."
+      },
+      {
+        "title": "The LEGO Movie",
+        "year": 2014,
+        "image": "lego_movie.jpg",
+        "description": "The story of a nobody who saved everybody."
+      },
+      {
+        "title": "Toy Story",
+        "year": 1995,
+        "image": "toy_story.jpg",
+        "description": "You've got a friend in me."
+      },
+      {
+        "title": "Despicable Me",
+        "year": 2010,
+        "image": "despicable_me.jpg",
+        "description": "Superbad. Superdad."
+      }
+    ]
+  },
+  {
+    "genre": "Comedy/Thriller",
+    "movies": [
+      {
+        "title": "Knives Out",
+        "year": 2019,
+        "image": "knives_out.jpg",
+        "description": "Hell, of a day for the Marta."
+      },
+      {
+        "title": "Hot Fuzz",
+        "year": 2007,
+        "image": "hot_fuzz.jpg",
+        "description": "Big cops. Small town. Moderate violence."
+      },
+      {
+        "title": "The Nice Guys",
+        "year": 2016,
+        "image": "nice_guys.jpg",
+        "description": "They're not that nice."
+      },
+      {
+        "title": "Fargo",
+        "year": 1996,
+        "image": "fargo.jpg",
+        "description": "A lot can happen in the middle of nowhere."
+      }
+    ]
+  },
+  {
+    "genre": "Comedy/Romance",
+    "movies": [
+      {
+        "title": "The Princess Bride",
+        "year": 1987,
+        "image": "princess_bride.jpg",
+        "description": "As you wish."
+      },
+      {
+        "title": "When Harry Met Sally",
+        "year": 1989,
+        "image": "when_harry_met_sally.jpg",
+        "description": "Can men and women be friends or does sex always get in the way?"
+      },
+      {
+        "title": "Groundhog Day",
+        "year": 1993,
+        "image": "groundhog_day.jpg",
+        "description": "What would you do if you were stuck in one place and every day was exactly the same?"
+      },
+      {
+        "title": "Crazy, Stupid, Love",
+        "year": 2011,
+        "image": "crazy_stupid_love.jpg",
+        "description": "This is crazy. This is stupid. This is love."
+      }
+    ]
+  },
+  {
+    "genre": "Comedy/Sci-Fi",
+    "movies": [
+      {
+        "title": "Back to the Future",
+        "year": 1985,
+        "image": "back_to_the_future.jpg",
+        "description": "Great Scott!"
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "year": 2005,
+        "image": "hitchhikers_guide.jpg",
+        "description": "Don't panic."
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "image": "guardians_of_the_galaxy.jpg",
+        "description": "You're welcome."
+      },
+      {
+        "title": "The Fifth Element",
+        "year": 1997,
+        "image": "fifth_element.jpg",
+        "description": "Leeloo Dallas multipass."
+      }
+    ]
+  },
+  {
+    "genre": "Comedy/Horror",
+    "movies": [
+      {
+        "title": "Shaun of the Dead",
+        "year": 2004,
+        "image": "shaun_of_the_dead.jpg",
+        "description": "A romantic comedy. With zombies."
+      },
+      {
+        "title": "Zombieland",
+        "year": 2009,
+        "image": "zombieland.jpg",
+        "description": "Nut up or shut up."
+      },
+      {
+        "title": "The Cabin in the Woods",
+        "year": 2011,
+        "image": "cabin_in_the_woods.jpg",
+        "description": "You think you know the story."
+      },
+      {
+        "title": "Scary Movie",
+        "year": 2000,
+        "image": "scary_movie.jpg",
+        "description": "No mercy. No shame. No sequel."
+      }
+    ]
+  },
+  {
+    "genre": "Drama/Romance",
+    "movies": [
+      {
+        "title": "Titanic",
+        "year": 1997,
+        "image": "titanic.jpg",
+        "description": "I'm the king of the world!"
+      },
+      {
+        "title": "The Fault in Our Stars",
+        "year": 2014,
+        "image": "fault_in_our_stars.jpg",
+        "description": "Okay? Okay."
+      },
+      {
+        "title": "A Star is Born",
+        "year": 2018,
+        "image": "star_is_born.jpg",
+        "description": "I just wanted to take another look at you."
+      },
+      {
+        "title": "Casablanca",
+        "year": 1942,
+        "image": "casablanca.jpg",
+        "description": "Here's looking at you, kid."
+      }
+    ]
+  },
+  {
+    "genre": "Drama/Thriller",
+    "movies": [
+      {
+        "title": "The Revenant",
+        "year": 2015,
+        "image": "revenant.jpg",
+        "description": "I ain't afraid to die anymore. I done it already."
+      },
+      {
+        "title": "Gone Girl",
+        "year": 2014,
+        "image": "gone_girl.jpg",
+        "description": "You don't know what you've got 'til it's gone."
+      },
+      {
+        "title": "The Departed",
+        "year": 2006,
+        "image": "departed.jpg",
+        "description": "I'm the guy who does his job. You must be the other guy."
+      },
+      {
+        "title": "Prisoners",
+        "year": 2013,
+        "image": "prisoners.jpg",
+        "description": "Every moment matters."
+      }
+    ]
+  },
+  {
+    "genre": "Drama/Animation",
+    "movies": [
+      { "title": "Up", "year": 2009, "image": "up.jpg", "description": "Adventure is out there!" },
+      { "title": "Coco", "year": 2017, "image": "coco.jpg", "description": "Family comes first." },
+      {
+        "title": "Inside Out",
+        "year": 2015,
+        "image": "inside_out.jpg",
+        "description": "Meet the little voices inside your head."
+      },
+      {
+        "title": "The Prince of Egypt",
+        "year": 1998,
+        "image": "prince_of_egypt.jpg",
+        "description": "A hero is born among a hundred; a wise man is found among a thousand."
+      }
+    ]
+  },
+  {
+    "genre": "Drama/Comedy",
+    "movies": [
+      {
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "image": "grand_budapest_hotel.jpg",
+        "description": "You see, there are still faint glimmers of civilization left in this barbaric slaughterhouse that was once known as humanity."
+      },
+      {
+        "title": "Little Miss Sunshine",
+        "year": 2006,
+        "image": "little_miss_sunshine.jpg",
+        "description": "Do what you love, and f*** the rest."
+      },
+      {
+        "title": "Juno",
+        "year": 2007,
+        "image": "juno.jpg",
+        "description": "It started with a chair."
+      },
+      {
+        "title": "Silver Linings Playbook",
+        "year": 2012,
+        "image": "silver_linings_playbook.jpg",
+        "description": "Excelsior!"
+      }
+    ]
+  },
+  {
+    "genre": "Drama/Horror",
+    "movies": [
+      {
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "image": "sixth_sense.jpg",
+        "description": "I see dead people."
+      },
+      {
+        "title": "The Others",
+        "year": 2001,
+        "image": "others.jpg",
+        "description": "Sometimes the world of the living gets mixed up with the world of the dead."
+      },
+      {
+        "title": "Black Swan",
+        "year": 2010,
+        "image": "black_swan.jpg",
+        "description": "I had the craziest dream last night about a girl who has turned into a swan, but her prince falls for the wrong girl, and she kills herself."
+      },
+      {
+        "title": "The Conjuring",
+        "year": 2013,
+        "image": "conjuring.jpg",
+        "description": "Based on the true case files of the Warrens."
+      }
+    ]
+  },
+  {
+    "genre": "Sci-Fi/Horror",
+    "movies": [
+      {
+        "title": "Alien",
+        "year": 1979,
+        "image": "alien.jpg",
+        "description": "In space, no one can hear you scream."
+      },
+      {
+        "title": "The Thing",
+        "year": 1982,
+        "image": "thing.jpg",
+        "description": "Man is the warmest place to hide."
+      },
+      {
+        "title": "Annihilation",
+        "year": 2018,
+        "image": "annihilation.jpg",
+        "description": "A mind-bending experience."
+      },
+      {
+        "title": "The Fly",
+        "year": 1986,
+        "image": "fly.jpg",
+        "description": "Be afraid. Be very afraid."
+      }
+    ]
+  },
+  {
+    "genre": "Sci-Fi/Romance",
+    "movies": [
+      {
+        "title": "Her",
+        "year": 2013,
+        "image": "her.jpg",
+        "description": "Falling in love with an operating system."
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "image": "eternal_sunshine.jpg",
+        "description": "Love is a four-letter word."
+      },
+      {
+        "title": "The Time Traveler's Wife",
+        "year": 2009,
+        "image": "time_travelers_wife.jpg",
+        "description": "Love makes time travel possible."
+      },
+      {
+        "title": "About Time",
+        "year": 2013,
+        "image": "about_time.jpg",
+        "description": "Live every moment. Love every moment."
+      }
+    ]
+  },
+  {
+    "genre": "Sci-Fi/Thriller",
+    "movies": [
+      {
+        "title": "Blade Runner",
+        "year": 1982,
+        "image": "blade_runner.jpg",
+        "description": "The future is now."
+      },
+      {
+        "title": "Inception",
+        "year": 2010,
+        "image": "inception.jpg",
+        "description": "Your mind is the scene of the crime."
+      },
+      {
+        "title": "The Minority Report",
+        "year": 2002,
+        "image": "minority_report.jpg",
+        "description": "The system is perfect until it comes after you."
+      },
+      {
+        "title": "Children of Men",
+        "year": 2006,
+        "image": "children_of_men.jpg",
+        "description": "The future's a thing of the past."
+      }
+    ]
+  },
+  {
+    "genre": "Sci-Fi/Animation",
+    "movies": [
+      {
+        "title": "WALL-E",
+        "year": 2008,
+        "image": "wall_e.jpg",
+        "description": "The last robot on Earth is not alone."
+      },
+      {
+        "title": "Ghost in the Shell",
+        "year": 1995,
+        "image": "ghost_in_the_shell.jpg",
+        "description": "It found a voice. Now it needs a body."
+      },
+      {
+        "title": "Akira",
+        "year": 1988,
+        "image": "akira.jpg",
+        "description": "Neo-Tokyo is about to explode."
+      },
+      {
+        "title": "The Iron Giant",
+        "year": 1999,
+        "image": "iron_giant.jpg",
+        "description": "It came from outer space!"
+      }
+    ]
+  },
+  {
+    "genre": "Horror/Romance",
+    "movies": [
+      {
+        "title": "Warm Bodies",
+        "year": 2013,
+        "image": "warm_bodies.jpg",
+        "description": "He's still dead, but he's getting warmer."
+      },
+      {
+        "title": "Crimson Peak",
+        "year": 2015,
+        "image": "crimson_peak.jpg",
+        "description": "Love makes monsters of us all."
+      },
+      {
+        "title": "Bram Stoker's Dracula",
+        "year": 1992,
+        "image": "dracula.jpg",
+        "description": "Love never dies."
+      },
+      {
+        "title": "Let the Right One In",
+        "year": 2008,
+        "image": "let_right_one_in.jpg",
+        "description": "Eli is 12 years old. She's been 12 for over 200 years and, she just moved in next door."
+      }
+    ]
+  },
+  {
+    "genre": "Horror/Thriller",
+    "movies": [
+      {
+        "title": "Psycho",
+        "year": 1960,
+        "image": "psycho.jpg",
+        "description": "A boy's best friend is his mother."
+      },
+      {
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "image": "sixth_sense.jpg",
+        "description": "I see dead people."
+      },
+      {
+        "title": "The Others",
+        "year": 2001,
+        "image": "others.jpg",
+        "description": "Sooner or later, they will find you."
+      },
+      {
+        "title": "The Cabin in the Woods",
+        "year": 2011,
+        "image": "cabin_in_the_woods.jpg",
+        "description": "You think you know the story."
+      }
+    ]
+  },
+  {
+    "genre": "Horror/Animation",
+    "movies": [
+      {
+        "title": "Corpse Bride",
+        "year": 2005,
+        "image": "corpse_bride.jpg",
+        "description": "There's been a grave misunderstanding."
+      },
+      {
+        "title": "Monster House",
+        "year": 2006,
+        "image": "monster_house.jpg",
+        "description": "The house is alive."
+      },
+      {
+        "title": "ParaNorman",
+        "year": 2012,
+        "image": "paranorman.jpg",
+        "description": "You don't become a hero by being normal."
+      },
+      {
+        "title": "Coraline",
+        "year": 2009,
+        "image": "coraline.jpg",
+        "description": "Be careful what you wish for."
+      }
+    ]
+  },
+  {
+    "genre": "Romance/Thriller",
+    "movies": [
+      {
+        "title": "Vertigo",
+        "year": 1958,
+        "image": "vertigo.jpg",
+        "description": "Alfred Hitchcock engulfs you in a whirlpool of terror and tension!"
+      },
+      {
+        "title": "Body Heat",
+        "year": 1981,
+        "image": "body_heat.jpg",
+        "description": "It's a hot summer. Ned Racine is waiting for something special to happen. And when it does... He won't be ready for the consequences."
+      },
+      {
+        "title": "Fatal Attraction",
+        "year": 1987,
+        "image": "fatal_attraction.jpg",
+        "description": "A look that led to an evening. A mistake he'll regret...FOR THE REST OF HIS LIFE."
+      },
+      {
+        "title": "Basic Instinct",
+        "year": 1992,
+        "image": "basic_instinct.jpg",
+        "description": "A brutal murder. A brilliant killer. A cop who can't resist the danger."
+      }
+    ]
+  },
+  {
+    "genre": "Romance/Animation",
+    "movies": [
+      {
+        "title": "Beauty and the Beast",
+        "year": 1991,
+        "image": "beauty_beast.jpg",
+        "description": "The tale as old as time."
+      },
+      {
+        "title": "Up",
+        "year": 2009,
+        "image": "up.jpg",
+        "description": "An adventure is out there."
+      },
+      {
+        "title": "The Little Mermaid",
+        "year": 1989,
+        "image": "little_mermaid.jpg",
+        "description": "Under the sea."
+      },
+      {
+        "title": "Mulan",
+        "year": 1998,
+        "image": "mulan.jpg",
+        "description": "The flower that blooms in adversity is the most rare and beautiful of all."
+      }
+    ]
+  },
+  {
+    "genre": "Thriller/Animation",
+    "movies": [
+      {
+        "title": "Perfect Blue",
+        "year": 1997,
+        "image": "perfect_blue.jpg",
+        "description": "Where reality and illusion collide."
+      },
+      {
+        "title": "Paprika",
+        "year": 2006,
+        "image": "paprika.jpg",
+        "description": "In your dreams, they can hear you scream."
+      },
+      {
+        "title": "The Secret of NIMH",
+        "year": 1982,
+        "image": "nimh.jpg",
+        "description": "Right before your eyes and beyond your wildest dreams."
+      },
+      {
+        "title": "Akira",
+        "year": 1988,
+        "image": "akira.jpg",
+        "description": "Neo-Tokyo is about to explode."
+      }
+    ]
+  }
+]
