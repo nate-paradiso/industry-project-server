@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const cors = require("cors");
 
-app.use("/images", express.static("public/images"));
+app.use(express.static("./public"));
 
 // Allow JSON to be sent/received
 app.use(express.json());
